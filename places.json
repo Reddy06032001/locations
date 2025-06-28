@@ -1,0 +1,402 @@
+[
+  {
+    "name": "Vijayawada Railway Station",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        80.6305,
+        16.5193
+      ]
+    }
+  },
+  {
+    "name": "Kanaka Durga Temple",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        80.6153,
+        16.5304
+      ]
+    }
+  },
+  {
+    "name": "Prakasam Barrage",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        80.6185,
+        16.524
+      ]
+    }
+  },
+  {
+    "name": "Benz Circle",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        80.6489,
+        16.5065
+      ]
+    }
+  },
+  {
+    "name": "PVP Mall",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        80.649,
+        16.5068
+      ]
+    }
+  },
+  {
+    "name": "Krishna Lanka",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        80.6221,
+        16.5102
+      ]
+    }
+  },
+  {
+    "name": "Gollapudi",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        80.5794,
+        16.5285
+      ]
+    }
+  },
+  {
+    "name": "Auto Nagar",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        80.6712,
+        16.4878
+      ]
+    }
+  },
+  {
+    "name": "Ayodhya Nagar",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        80.642,
+        16.525
+      ]
+    }
+  },
+  {
+    "name": "VMC Stadium",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        80.618,
+        16.523
+      ]
+    }
+  },
+  {
+    "name": "Guntur Railway Station",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        80.4419,
+        16.3067
+      ]
+    }
+  },
+  {
+    "name": "NTR Stadium",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        80.44,
+        16.32
+      ]
+    }
+  },
+  {
+    "name": "Brodipet",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        80.4425,
+        16.312
+      ]
+    }
+  },
+  {
+    "name": "Mirchi Yard",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        80.459,
+        16.317
+      ]
+    }
+  },
+  {
+    "name": "Lakshmipuram",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        80.4501,
+        16.3142
+      ]
+    }
+  },
+  {
+    "name": "Arundelpet",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        80.4429,
+        16.3049
+      ]
+    }
+  },
+  {
+    "name": "Nallapadu",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        80.42,
+        16.28
+      ]
+    }
+  },
+  {
+    "name": "Chuttugunta",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        80.4482,
+        16.3054
+      ]
+    }
+  },
+  {
+    "name": "Amaravati Road",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        80.4391,
+        16.3282
+      ]
+    }
+  },
+  {
+    "name": "Patnam Bazaar",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        80.4372,
+        16.3121
+      ]
+    }
+  },
+  {
+    "name": "Majestic",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        77.5727,
+        12.9766
+      ]
+    }
+  },
+  {
+    "name": "Lalbagh",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        77.5858,
+        12.9507
+      ]
+    }
+  },
+  {
+    "name": "Electronic City",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        77.666,
+        12.8398
+      ]
+    }
+  },
+  {
+    "name": "Bangalore Palace",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        77.592,
+        12.9987
+      ]
+    }
+  },
+  {
+    "name": "Whitefield",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        77.75,
+        12.9698
+      ]
+    }
+  },
+  {
+    "name": "Indiranagar",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        77.64,
+        12.9716
+      ]
+    }
+  },
+  {
+    "name": "Koramangala",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        77.6229,
+        12.9352
+      ]
+    }
+  },
+  {
+    "name": "Jayanagar",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        77.5851,
+        12.925
+      ]
+    }
+  },
+  {
+    "name": "Hebbal",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        77.5913,
+        13.0358
+      ]
+    }
+  },
+  {
+    "name": "Yelahanka",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        77.5946,
+        13.1
+      ]
+    }
+  },
+  {
+    "name": "Marathahalli",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        77.6975,
+        12.956
+      ]
+    }
+  },
+  {
+    "name": "Rajajinagar",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        77.556,
+        12.9912
+      ]
+    }
+  },
+  {
+    "name": "Malleswaram",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        77.5712,
+        13.0086
+      ]
+    }
+  },
+  {
+    "name": "BTM Layout",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        77.6101,
+        12.9166
+      ]
+    }
+  },
+  {
+    "name": "Banashankari",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        77.5461,
+        12.918
+      ]
+    }
+  },
+  {
+    "name": "Kengeri",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        77.4855,
+        12.9182
+      ]
+    }
+  },
+  {
+    "name": "Hennur",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        77.6425,
+        13.0343
+      ]
+    }
+  },
+  {
+    "name": "Hosur Road",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        77.6402,
+        12.8918
+      ]
+    }
+  },
+  {
+    "name": "KR Puram",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        77.7156,
+        13.0034
+      ]
+    }
+  },
+  {
+    "name": "Sarjapur",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        77.785,
+        12.8622
+      ]
+    }
+  }
+]
