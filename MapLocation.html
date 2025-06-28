@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <style>
+      #map-container {
+        height: 500px;
+        width: 800px;
+        border: 2px solid black;
+      }
+    </style>
+  </head>
+  <body onload="getLatLngData()">
+    <div>
+      <div id="map-container"></div>
+    </div>
+
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCrkV1B6lymv48un-yrTexE_ZdUzZ8KI4s"></script>
+
+    <script>
+      function getLatLngData() {
+        const location = {
+          lat: 16.50240494993482,
+          lng: 80.64264636628106,
+        };
+        const map = new google.maps.Map(
+          document.getElementById("map-container"),
+          { zoom: 14, center: location }
+        );
+      }
+
+      navigator.geolocation.getCurrentPosition((position) => {
+        console.log("Latitude :", position.coords.latitude);
+        console.log("longitude :", position.coords.longitude);
+      });
+    </script>
+  </body>
+</html>
